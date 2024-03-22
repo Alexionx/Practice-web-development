@@ -1,0 +1,31 @@
+.line {
+    width: 40%;
+    height: 1px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.heading {
+    margin-left: 20px;
+}
+
+.photo {
+    margin-left: 20px;
+}
+
+.description {
+    margin-left: 20px;
+}
+
+.line2 {
+    width: 40%;
+    height: 1px;
+    background-color: black;
+    margin-left: 20px;
+}
+
+.text {
+    margin-left: 30px;
+    text-align: justify;
+}
