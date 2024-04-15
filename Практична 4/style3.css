@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+
+img {
+    margin: auto;
+    display: block;
+    border: 2px solid white;
+}
+
+.text1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.text2 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}

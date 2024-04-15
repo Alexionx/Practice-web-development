@@ -1,0 +1,19 @@
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+}
+
+.box p {
+    color: red;
+}
+
+ul li {
+    color: blue;
+}
+
+ul li.done {
+    color: green;
+}

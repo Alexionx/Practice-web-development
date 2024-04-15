@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(109, 125, 204);
+}
+
+.text1 {
+    color: white;
+}
+
+.text-color {
+    color: brown;
+}
+
+.text2 {
+    font-size: 50px;
+    color: white;
+}
+
+.text3 {
+    font-weight: 900;
+    color: white;
+}
+
+.text4 {
+    font-family: cursive;
+    color: white;
+}
+
+.text-align {
+    text-align: right;
+    color: white;
+}
