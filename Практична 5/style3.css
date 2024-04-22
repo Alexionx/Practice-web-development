@@ -1,0 +1,39 @@
+.cat {
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    float: left;
+    
+}
+
+.dog {
+    width: 500px;
+    height: 400px;
+    background-color: orange;
+    float: right;
+}
+
+footer {
+    background-color: purple;
+    clear: both;
+    text-align: center;
+}
+
+#cat {
+    width: 200px;
+    height: 200px;
+    float: left;
+    
+}
+
+#dog {
+    float: left;
+}
+
+.text1 {
+   font-size: 20px;
+}
+
+.text2 {
+    font-size: 20px;
+}
