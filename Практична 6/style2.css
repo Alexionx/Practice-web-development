@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+    justify-content: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.container-1 {
+    width: 330px;
+    height: 310px;
+    background-color: rgb(219, 217, 217);
+
+}
+
+.container-2 {
+    width: 330px;
+    height: 310px;
+    background-color: rgb(219, 217, 217);
+}
+
+.container-3 {
+    width: 330px;
+    height: 310px;
+    background-color: rgb(219, 217, 217);
+}
+
+p {
+    text-align: center;
+}
+
+.preposition {
+    font-size: 20px;
+    font-family: "Rowdies", sans-serif;
+}
+
+.price {
+    font-size: 40px;
+    font-family: "Rowdies", sans-serif;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+
+button {
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+    width: 65px;
+    height: 30px;
+    background-color: orange;
+    border: none;
+}
+
+button span {
+    color: white;
+}
+
+@media (max-width: 1250px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

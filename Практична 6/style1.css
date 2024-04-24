@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    border: 10px solid yellow;
+    flex-direction: column;
+    width: 100px;
+}
+
+.container-1 {
+    width: 100px;
+    height: 250px;
+    background-color: red;
+}
+
+.container-2 {
+    width: 100px;
+    height: 250px;
+    background-color: orange;
+}
+
+.container-3 {
+    width: 100px;
+    height: 250px;
+    background-color: yellow;
+}
+
+.container-4 {
+    width: 100px;
+    height: 250px;
+    background-color: green;
+}
+
+.container-5 {
+    width: 100px;
+    height: 250px;
+    background-color: blue;
+}
+
+.container-6 {
+    width: 100px;
+    height: 250px;
+    background-color: indigo;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
